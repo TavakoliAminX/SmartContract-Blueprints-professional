@@ -1,0 +1,1 @@
+This module covers the foundational data structures in Solidity: Structs, Arrays, and Mappings. It demonstrates initial variable assignment via constructors and essential CRUD (Create, Read, Update, Delete) operations for managing state storage efficiently on the blockchain.
